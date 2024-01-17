@@ -1,0 +1,8 @@
+name: SimplyStorage
+version: '${project.version}'
+main: com.waldy.simplystorage.SimplyStorage
+api-version: '1.20'
+commands:
+  storage:
+    usage: /<command>
+    description: open storages
